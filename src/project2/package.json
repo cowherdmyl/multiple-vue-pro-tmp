@@ -1,0 +1,11 @@
+{
+  "name": "project2",
+  "private": true,
+  "version": "1.0.0",
+  "description": "project2 test",
+  "dependencies": {
+  },
+  "main": "main.js",
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "act-core",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "活动核心库，包含bridge、request、utils",
+  "license": "ISC"
+}

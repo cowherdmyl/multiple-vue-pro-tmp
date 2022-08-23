@@ -1,0 +1,8 @@
+{
+  "name": "act-ui",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "活动通用UI库",
+  "license": "ISC"
+}
